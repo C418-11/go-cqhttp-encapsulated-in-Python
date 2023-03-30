@@ -1,1 +1,1 @@
-# go-cqhttp-encapsulated-in-Python-
+# go-cqhttp-encapsulated-in-Python
